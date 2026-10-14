@@ -2,6 +2,6 @@
 
 - apple
 - banana
-- milk
+- chocolate milk
 - tomato
 - eggs
